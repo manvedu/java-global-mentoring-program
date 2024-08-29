@@ -11,7 +11,6 @@ public class Subscription {
         this.startDate = startDate;
     }
 
-    // Getters and Setters
     public String getBankcardNumber() {
         return bankcardNumber;
     }
