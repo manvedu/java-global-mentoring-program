@@ -64,10 +64,12 @@ public class ServiceImplementationTest {
 
     @Test
     void testGetAllUsers() throws NoSuchFieldException, IllegalAccessException {
+
         List<User> usersList = service.getAllUsers();
 
         assertTrue(usersList.isEmpty(), "User list should be empty");
         assertEquals(0, usersList.size(), "User list should contain any user");
+
 
         //Logic to be able to add users to the list ln 72-78
         Field usersField = ServiceImplementation.class.getDeclaredField("users");
@@ -120,3 +122,7 @@ public class ServiceImplementationTest {
     }
 
 }
+
+
+
+

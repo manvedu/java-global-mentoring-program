@@ -1,7 +1,6 @@
-com/example/jmp/cloud/bank/impl/CentralBank.class
-com/example/jmp/cloud/bank/impl/RetailBank.class
-com/example/jmp/cloud/bank/impl/App.class
 com/example/jmp/cloud/bank/impl/BankCreator.class
 com/example/jmp/cloud/bank/impl/InvestmentBank.class
 com/example/jmp/cloud/bank/impl/BankCreator$1.class
+com/example/jmp/cloud/bank/impl/CentralBank.class
+com/example/jmp/cloud/bank/impl/RetailBank.class
 com/example/jmp/cloud/bank/impl/BankType.class

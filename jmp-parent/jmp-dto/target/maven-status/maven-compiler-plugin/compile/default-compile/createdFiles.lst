@@ -1,7 +1,6 @@
 com/example/jmp/dto/User.class
-com/example/jmp/dto/App.class
-com/example/jmp/dto/Subscription.class
-com/example/jmp/dto/CreditBankCard.class
 com/example/jmp/dto/DebitBankCard.class
 com/example/jmp/dto/BankCardType.class
+com/example/jmp/dto/Subscription.class
 com/example/jmp/dto/BankCard.class
+com/example/jmp/dto/CreditBankCard.class
