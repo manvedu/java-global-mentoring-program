@@ -5,8 +5,6 @@ import com.example.jmp.dto.BankCardType;
 import com.example.jmp.dto.Subscription;
 import com.example.jmp.dto.User;
 
-
-
 import java.util.List;
 import java.util.Optional;
 import java.time.temporal.ChronoUnit;
